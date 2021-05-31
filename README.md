@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YogeshBhusara
-- 👀 I’m interested in UI/UX Desiging
+- 👀 I’m an UI/UX Designer
 - 🌱 I’m currently learning SwiftUI
 - 💞️ Check My design work on https://dribbble.com/YBhusara
 - 📫 How to reach me yogesh.bhusara@outlook.com
