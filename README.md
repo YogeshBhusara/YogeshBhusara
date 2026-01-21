@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YogeshBhusara
 - 👀 I’m an UI/UX Designer
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI and enojoying my time exploring cursor
 - 💞️ Check My design work on https://dribbble.com/YBhusara
 - 📫 How to reach me yogesh.bhusara@outlook.com
 
