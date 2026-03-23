@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YogeshBhusara
 - 👀 I’m a Sr. UI/UX Designer
-- 🌱 I’m currently learning SwiftUI and enojoying my time exploring cursor (Vibe Coding)
+- 🌱 I’m currently learning SwiftUI and vibe coding using cursor
 - 🧑‍💻 Check My design portfolio https://yogeshbhusara.github.io
 - 💞️ Check My design work on https://dribbble.com/YBhusara
 - 📫 How to reach me yogesh.bhusara@outlook.com
